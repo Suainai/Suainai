@@ -28,11 +28,11 @@
 
 ---
 
-### 🚀 About Me
+<!-- ### 🚀 About Me
 - 🔭 **当前专注**: 构建高性能的微服务架构与响应式前端界面。
 - 🌱 **持续学习**: 云原生技术 (Kubernetes) 与 WebAssembly。
 - 💬 **技术交流**: 欢迎聊聊 Java/C# 性能优化或前端架构设计。
-- 📫 **联系方式**: [3278352909@qq.com]
+- 📫 **联系方式**: [3278352909@qq.com] -->
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Suainai&label=VIEWS&style=flat-square&color=blue" alt="Suainai" />
